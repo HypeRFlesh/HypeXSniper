@@ -1,0 +1,2 @@
+# HypeXSniper
+#HypeX Discord Sniper
